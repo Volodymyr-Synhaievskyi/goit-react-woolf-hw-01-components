@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Volodymyr-Synhaievskyi.github.io/goit-react-woolf-hw-01-components/",
+  "homepage": "https://volodymyr-synhaievskyi.github.io/goit-react-woolf-hw-01-components/",
   "dependencies": {
     "clsx": "^2.1.0",
     "modern-normalize": "^2.0.0",
